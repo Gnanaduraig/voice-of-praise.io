@@ -86619,7 +86619,7 @@ A.ap8.prototype={
 $0(){this.a.e=!0},
 $S:0}
 A.apd.prototype={
-$0(){A.OK("Join the Voice of Praise 2025 event and vote now! https://voiceofpraise.in/live_events")},
+$0(){A.OK("Join the Voice of Praise 2025 event and vote now! https://voiceofpraise.in/#/live_events")},
 $S:0}
 A.ape.prototype={
 $2(a,b){var s=null,r=b.b,q=r!=null?B.b.qz(r.gqm(),0,new A.apc()):0
@@ -86813,7 +86813,7 @@ return A.E($.avH().D(0,"flutter.user_email"),$async$c6)
 case 5:q.ak(new A.aqs(q))
 return A.x(null,r)}})
 return A.y($async$c6,r)},
-afQ(){A.OK("Vote for Me : https://voiceofpraise.in//live_events")},
+afQ(){A.OK("Vote for Me : https://voiceofpraise.in/#/live_events")},
 L(a){var s=this,r=null,q=A.qE(B.aa,r,B.cH,!0),p=A.qE(B.V,r,r,r)
 return new A.An(A.af(["/",new A.aqk(s),"/live_events",new A.aql(s),"/contact",new A.aqm(s),"/praise_tv",new A.aqn(s),"/prayer",new A.aqo(s)],t.N,t.Ab),"/","Voice Of Praise Mission",q,p,B.zi,!1,r)}}
 A.aqq.prototype={
