@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "cd552457973ed3762b74ed09cd6df682",
-"assets/AssetManifest.bin.json": "d845c865e7bd439fdc75c5a541e9d957",
-"assets/AssetManifest.json": "bf9f39eb978c069a1f82cc9a35069d35",
+const RESOURCES = {"assets/AssetManifest.bin": "c599ec8711edfdfce04cd26f65822d28",
+"assets/AssetManifest.bin.json": "3be2235e6339c7cbf20b93acad1e08c2",
+"assets/AssetManifest.json": "ab7c1cb003ba735dd70e876c7f6c5e2a",
 "assets/assets/images/announcementbar.jpg": "bccd5da00151c111287d70b4f3eb88f1",
 "assets/assets/images/announcementbar_desktop1.jpg": "1e6609e0891f8c93b085bede130e2d95",
 "assets/assets/images/announcementbar_desktop2.jpg": "13317414b4de277e8c8e205e136d6b83",
@@ -13,6 +13,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "cd552457973ed3762b74ed09cd6df682
 "assets/assets/images/announcementbar_mobile2.jpg": "cb92e4fe77f00ca1f31f52e8eccc7c21",
 "assets/assets/images/chruch%2520elevation%25206.jpg": "fdc652510a0fdfb857ba5d4e244911a4",
 "assets/assets/images/eventposter.jpg": "c3e6b0054ad67c6661537bfc4e112c83",
+"assets/assets/images/Livingston.jpg": "faa2cba8610de3d171b71afbfd90893a",
 "assets/assets/images/pastor.png": "6e9de939bdc3bb6d25297fc2b2a4be37",
 "assets/assets/images/Praise%2520tv_LOGO.png": "3115526951ec03df78bd214ba4e2289b",
 "assets/assets/images/PRAISETV%2520LOGO.png": "3b65b0b8b428075ad306ebbea7e84044",
@@ -25,6 +26,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "cd552457973ed3762b74ed09cd6df682
 "assets/assets/images/voiceofpraise_logo.png": "f09e3f01116bb37dde765882c6a3effe",
 "assets/assets/images/vop.png": "1f2bb4c272ba9a10368971b5f078c9c1",
 "assets/assets/images/vop1.png": "786d239f8f3c684e2f9955a6acecf0bb",
+"assets/assets/images/YESUDASAN.jpg": "2812d2663751305e072641f7b3f169ff",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4472683b6f206758ee4d76c40ee91954",
 "assets/NOTICES": "135a6c7543a2f3e889b31b1707525ace",
@@ -44,14 +46,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "cd552457973ed3762b74ed09cd6df682
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "28b4402e6efad027748f28d4437c1c0a",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "370624660038a4bceaaac3c4e198b39f",
+"flutter_bootstrap.js": "6b3e9ef8958f92d5ea74bec5276c52cc",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "11bc83224b94609156926282dc5f9bb5",
 "/": "11bc83224b94609156926282dc5f9bb5",
-"main.dart.js": "633d997e00f558a8722f7a9407ea69aa",
+"main.dart.js": "4bd202c94bdc156c3377c26864be624a",
 "manifest.json": "24344508b1a4eafe941afb4c769ad11f",
 "version.json": "ce4ec47fabb360405177cb36b2faba7e"};
 // The application shell files that are downloaded before a service worker can
