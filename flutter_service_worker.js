@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7496657ad3015a98ff936e5ee66fd329",
-"assets/AssetManifest.bin.json": "b97daa232535c8406ae43448f68dc6ad",
-"assets/AssetManifest.json": "6a65e0c9fad966b814bf9c6e578e0a81",
+const RESOURCES = {"assets/AssetManifest.bin": "03c5d941eea6ad95567e33c52833c697",
+"assets/AssetManifest.bin.json": "cff8bc0ad9c525dde2f7f5649922226f",
+"assets/AssetManifest.json": "58d425f3bb52d7a090bf9a7818f3aadf",
 "assets/assets/images/announcementbar.jpg": "bccd5da00151c111287d70b4f3eb88f1",
 "assets/assets/images/announcementbar_desktop1.jpg": "1e6609e0891f8c93b085bede130e2d95",
 "assets/assets/images/announcementbar_desktop2.jpg": "13317414b4de277e8c8e205e136d6b83",
@@ -23,6 +23,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7496657ad3015a98ff936e5ee66fd329
 "assets/assets/images/voiceofpraisename.png": "69e9594ad0674aa96a78726d009ee57b",
 "assets/assets/images/voiceofpraise_logo.png": "3ab82e1d3391d0f326ba73242cf1b756",
 "assets/assets/images/YESUDASAN.jpg": "2812d2663751305e072641f7b3f169ff",
+"assets/assets/images/YESUDASAN.png": "759c22470adc3378f53a6d7e1f12ae25",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "cba8f2f5c890964ca5c0fefc8afb032a",
 "assets/NOTICES": "88057e2ca814d48425e14d9f0f89258f",
@@ -42,14 +43,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "7496657ad3015a98ff936e5ee66fd329
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "bed64ae4fc238e3d0d9f914204a3ef60",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "ca7e389f30a890d0a28cfa43f553a64a",
+"flutter_bootstrap.js": "f048550bc840e1b729b0e7b4327d4ed3",
 "icons/Icon-192.png": "a6e0b335b99ed4d7183957086a56fac2",
 "icons/Icon-512.png": "675a23232e5242ef8e807d1f218fcf0e",
 "icons/Icon-maskable-192.png": "5d1158a3fbc3dc33ace158c0a344a6f5",
 "icons/Icon-maskable-512.png": "0ff2835848641a20a3c5e92da87be49f",
 "index.html": "11bc83224b94609156926282dc5f9bb5",
 "/": "11bc83224b94609156926282dc5f9bb5",
-"main.dart.js": "f80f959fdcdc9fd40c6f637b0e364d82",
+"main.dart.js": "c5103c3d21832be03794d747baadcb04",
 "manifest.json": "24344508b1a4eafe941afb4c769ad11f",
 "version.json": "ce4ec47fabb360405177cb36b2faba7e"};
 // The application shell files that are downloaded before a service worker can
