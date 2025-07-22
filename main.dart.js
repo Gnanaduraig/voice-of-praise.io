@@ -32236,7 +32236,7 @@ a0=A.em(a0,a4,"")
 i=B.c.X(a0,0,J.bb(m)>20?20:J.bb(m))
 h=A.i(i)+"_"+Date.now()
 g=v.G.window.location.origin
-f=A.i(g)+"/#/present/"+A.i(i)
+f=A.i(g)+"/#/presentation/session/"+A.i(h)
 e=new A.kB(h,l,i,f,new A.aC(Date.now(),0,!1))
 p=16
 a0=$.b5K().an("presentation_sessions").bl(h)
@@ -32277,8 +32277,8 @@ break
 case 6:case 1:return A.r(q,r)
 case 2:return A.q(o.at(-1),r)}})
 return A.t($async$Yc,r)},
-beS(a){A.b8e("pastor",a!=null?a.d+"/pastor":"/presentation/pastor","Pastor View",800,1200)},
-beT(a){A.b8e("stage",a!=null?a.d+"/stage":"/presentation/stage","Stage View",1080,1920)},
+beS(a){A.b8e("pastor",a!=null?"/presentation/session/"+a.a+"/pastor":"/presentation/pastor","Pastor View",800,1200)},
+beT(a){A.b8e("stage",a!=null?"/presentation/session/"+a.a+"/stage":"/presentation/stage","Stage View",1080,1920)},
 b8e(a,b,c,d,e){var s,r,q
 if($.ms.h(0,a)!=null&&!A.aw4($.ms.h(0,a)))A.beU($.ms.h(0,a))
 s=v.G
@@ -113803,7 +113803,7 @@ break
 case 1:A.beT(q.f.w)
 break
 case 2:s=q.f.w
-A.b8e("custom",s!=null?s.d+"/custom":"/presentation/custom","Custom View",1080,1920)
+A.b8e("custom",s!=null?"/presentation/session/"+s.a+"/custom":"/presentation/custom","Custom View",1080,1920)
 break
 case 3:break}r=A.h9(q.f.r,t.Yg,t.y)
 r.n(0,a,!0)
